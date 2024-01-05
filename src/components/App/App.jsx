@@ -3,7 +3,7 @@ import s from './App.module.css';
 import FeedbackOptions from 'components/FeedbackOptions/FeedbackOptions';
 import { Section } from 'components/Section/Section';
 import { Statistics } from 'components/Statistics/Statistics';
-import { Notification } from './Notification/Notification';
+import { Notification } from 'components/Notification/Notification';
 
 export class App extends React.Component {
   state = {
